@@ -224,7 +224,6 @@ Widget _buildHeader() {
                   ),
                 ),
 
-                // 🔥 STEP COUNTER (1/3, 2/3, dst)
                 Container(
                   padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
                   decoration: BoxDecoration(
